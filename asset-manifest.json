@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/bharathvenkatesan467/youtube-clone-using-react/static/css/main.43041041.css",
-    "main.js": "/bharathvenkatesan467/youtube-clone-using-react/static/js/main.b1929d02.js",
-    "static/media/1.jpg": "/bharathvenkatesan467/youtube-clone-using-react/static/media/1.606f024d51da0304b3c4.jpg",
-    "index.html": "/bharathvenkatesan467/youtube-clone-using-react/index.html",
-    "main.43041041.css.map": "/bharathvenkatesan467/youtube-clone-using-react/static/css/main.43041041.css.map",
-    "main.b1929d02.js.map": "/bharathvenkatesan467/youtube-clone-using-react/static/js/main.b1929d02.js.map"
+    "main.css": "/youtube-clone-using-react/static/css/main.43041041.css",
+    "main.js": "/youtube-clone-using-react/static/js/main.709849db.js",
+    "static/media/1.jpg": "/youtube-clone-using-react/static/media/1.606f024d51da0304b3c4.jpg",
+    "index.html": "/youtube-clone-using-react/index.html",
+    "main.43041041.css.map": "/youtube-clone-using-react/static/css/main.43041041.css.map",
+    "main.709849db.js.map": "/youtube-clone-using-react/static/js/main.709849db.js.map"
   },
   "entrypoints": [
     "static/css/main.43041041.css",
-    "static/js/main.b1929d02.js"
+    "static/js/main.709849db.js"
   ]
 }
